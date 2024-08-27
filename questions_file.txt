@@ -1,0 +1,864 @@
+---
+~~~ 
+id: "793b6b31-4929-41a8-9076-e072b7dbbc3c"
+title: "Question 1"
+difficulty: 1
+isSample: true
+type: "QUESTION"
+qaState: "PENDING"
+~~~
+
+:::q{marks=1}
+Calculate the value of $12 \times 5 - 8$.
+:::
+
+:::ain{free-latex}
+- 52
+:::
+
+:::qs
+52
+:::
+
+---
+~~~ 
+id: "050799f3-aebd-4b73-ab18-0406f41eb787"
+title: "Question 2"
+difficulty: 1
+isSample: true
+type: "QUESTION"
+qaState: "PENDING"
+~~~
+
+:::q{marks=1}
+Round the number $12.3457$ to 2 decimal places.
+:::
+
+:::ain{free-latex}
+- 12.35
+:::
+
+:::qs
+12.35
+:::
+
+---
+~~~ 
+id: "897e1e23-04e7-4444-a608-5912e7302c92"
+title: "Question 3"
+difficulty: 2
+isSample: true
+type: "QUESTION"
+qaState: "PENDING"
+~~~
+
+:::q{marks=2}
+Simplify the expression $9y \times 4z$.
+:::
+
+:::ain{free-latex}
+- 36yz
+:::
+
+:::qs
+36yz
+:::
+
+
+:::q{marks=2}
+Solve the equation $$\frac{3x}{5} = 6$$ for $x$.
+:::
+
+:::ain{free-latex}
+- 10
+:::
+
+:::qs
+10
+:::
+
+---
+~~~ 
+id: "913c3004-4b6a-4d1b-9783-6b4740034004"
+title: "Question 4"
+difficulty: 1
+isSample: true
+type: "QUESTION"
+qaState: "PENDING"
+~~~
+
+:::q{marks=1}
+Convert $\frac{3}{4}$ into a percentage.
+:::
+
+:::ain{free-latex}
+- 75
+:::
+
+:::qs
+75
+:::
+
+---
+~~~ 
+id: "b3731ba8-be47-4213-b748-f9e4030f7ea1"
+title: "Question 5"
+difficulty: 1
+isSample: true
+type: "QUESTION"
+qaState: "PENDING"
+~~~
+
+:::q{marks=2}
+Calculate 30% of 70.
+:::
+
+:::ain{free-latex}
+- 21
+:::
+
+:::qs
+21
+:::
+
+---
+~~~ 
+id: "e4f31533-db40-4993-982f-807e36c208de"
+title: "Question 6"
+difficulty: 1
+isSample: true
+type: "QUESTION"
+qaState: "PENDING"
+~~~
+
+:::q{marks=2}
+A five-sided spinner is labeled with numbers 1, 2, 3, 4, and 5. 
+
+(a) On a probability scale, mark with a cross the probability that the spinner will land on the number 2. 
+
+(b) On a probability scale, mark with a cross the probability that the spinner will land on the number 6.
+:::
+
+:::ain{free-latex}
+- 0
+:::
+
+:::callout{importantNote}
+The diagram required: A probability scale ranging from 0 to 1. Students are expected to mark the positions for the probabilities discussed in parts (a) and (b). Typical probability scale is a horizontal line with 0 marked on the left end, 0.5 in the middle, and 1 on the right end.
+:::
+
+:::qs
+0
+:::
+
+---
+~~~ 
+id: "f8c62f98-da61-4faa-863f-bfc52af4c29c"
+title: "Question 7"
+difficulty: 2
+isSample: true
+type: "QUESTION"
+qaState: "PENDING"
+~~~
+
+:::q{marks=3}
+Jane buys 4 boxes of cereal costing £1.50 each and 3 cartons of milk costing £2.85 each. She pays with a £20 note and receives £2.25 change. Calculate the cost of one carton of milk, assuming this information is correct. 
+
+Total paid: \( 4 \times 1.50 + 3 \times 2.85 = 17.55 \)
+Therefore, \( 20 - 2.25 = 17.75 \), which implies Jane's calculation is incorrect.
+:::
+
+:::ain{free-latex}
+- 2.85
+:::
+
+:::qs
+2.85
+:::
+
+---
+~~~ 
+id: "9a06a883-a147-4b69-99dd-0d44e3109320"
+title: "Question 8"
+difficulty: 2
+isSample: true
+type: "QUESTION"
+qaState: "PENDING"
+~~~
+
+:::q{marks=3}
+Calculate $\frac{2}{3} \times \frac{5}{9}$. Simplify your answer.
+:::
+
+:::ain{free-latex}
+- \frac{10}{27}
+:::
+
+:::qs
+\frac{10}{27}
+:::
+
+
+:::q{marks=3}
+Subtract $\frac{3}{5}$ from $\frac{7}{8}$. Express your answer in simplest form.
+:::
+
+:::ain{free-latex}
+- \frac{11}{40}
+:::
+
+:::qs
+\frac{11}{40}
+:::
+
+---
+~~~ 
+id: "4aa148e7-84bb-4af5-b81d-79f9134519ff"
+title: "Question 9"
+difficulty: 3
+isSample: true
+type: "QUESTION"
+qaState: "PENDING"
+~~~
+
+:::q{marks=4}
+Robert earns £13 per hour. If he works more than 8 hours in a day, his overtime rate is 1.5 times his regular rate. On a particular Friday, Robert worked a total of 11 hours. Calculate Robert's total earnings for that day in pounds.
+> Normal earnings for 8 hours: $8 \times 13 = 104$ 
+> Overtime earnings for 3 hours: $3 \times (1.5 \times 13) = 58.5$ 
+> Total earnings: $104 + 58.5$
+:::
+
+:::ain{free-latex}
+- 162.5
+:::
+
+:::qs
+162.5
+:::
+
+---
+~~~ 
+id: "a5542535-b386-44a7-a5f8-74d32c990924"
+title: "Question 10"
+difficulty: 2
+isSample: true
+type: "QUESTION"
+qaState: "PENDING"
+~~~
+
+:::q{marks=2}
+A warehouse has freshly packed boxes. Each box contains 48 items. Calculate and express the ratio of the number of items in 3 such boxes to the total number of items in 4 boxes, in its simplest form.
+:::
+
+:::ain{free-latex}
+- 3/4
+:::
+
+:::qs
+3/4
+:::
+
+---
+~~~ 
+id: "6e82fa9b-f5ef-4340-be61-35bf526bda95"
+title: "Question 11"
+difficulty: 3
+isSample: true
+type: "QUESTION"
+qaState: "PENDING"
+~~~
+
+:::q{marks=6}
+(a) Consider a pattern of tiles where each pattern number corresponds exactly to that many hexagonal tiles. How many hexagonal tiles are required for pattern number 12?
+:::
+
+:::ain{free-latex}
+- 12
+:::
+
+:::callout{importantNote}
+Draw a sequence of patterns starting with pattern number 1 up to pattern number 12. Each pattern should be represented with a corresponding number of hexagonal tiles indicating that pattern number 1 has 1 hexagonal tile, pattern number 2 has 2 hexagonal tiles, and so on up to 12 hexagonal tiles for pattern number 12.
+:::
+
+:::qs
+12
+:::
+
+
+:::q{marks=6}
+(b) For a pattern where the number of triangular tiles required is double the pattern number, calculate how many triangular tiles are needed for pattern number 20.
+:::
+
+:::ain{free-latex}
+- 40
+:::
+
+:::callout{importantNote}
+A diagram should display a grouping of triangular tiles corresponding to each pattern number, up to pattern number 20, indicating that pattern number 1 needs 2 triangular tiles, pattern number 2 needs 4 triangular tiles, and so forth.
+:::
+
+:::qs
+40
+:::
+
+
+:::q{marks=6}
+(c) Jamie suggests that if the pattern number is even, the number of triangular tiles needed (which is twice the pattern number) will be a multiple of 4. Examine Jamie's claim and verify its truth.
+:::
+
+:::ain{choice}
+- [ ] Jamie is correct; twice any even number is a multiple of 4.
+- [X] Jamie is incorrect; twice an even number is only a multiple of 2.
+- [ ] It depends on additional factors regarding the pattern.
+- [ ] None of the above.
+:::
+
+:::qs
+Jamie is incorrect; twice an even number is only a multiple of 2.
+:::
+
+---
+~~~ 
+id: "aa431ea3-35d4-4073-b7ce-e5d30a5acfca"
+title: "Question 12"
+difficulty: 1
+isSample: true
+type: "QUESTION"
+qaState: "PENDING"
+~~~
+
+:::q{marks=2}
+In a stationery shop, there is a container with 4 purple pens, 9 red pens, and 6 white pens. Calculate the probability of randomly selecting a red pen from the container. 
+
+> Total pens: $4 + 9 + 6 = 19$
+> Probability: $\frac{9}{19}$
+:::
+
+:::ain{free-latex}
+- \frac{9}{19}
+:::
+
+:::qs
+\frac{9}{19}
+:::
+
+---
+~~~ 
+id: "c2b8c37f-ec38-463d-8fb4-9ba7cdc1bfdd"
+title: "Question 13"
+difficulty: 3
+isSample: true
+type: "QUESTION"
+qaState: "PENDING"
+~~~
+
+:::q{marks=3}
+(a) An average teenager is standing next to a lamppost in a diagram drawn to scale. If the lamppost is twice as tall as the teenager and measures 3 meters in height in the diagram, estimate the height of the teenager. Round your answer to one decimal place.
+:::
+
+:::ain{free-latex}
+- 1.5
+:::
+
+:::callout{importantNote}
+The diagram shows a teenager standing next to a lamppost. The lamppost is labeled as being 3 meters tall, and it appears exactly twice the height of the teenager in the diagram.
+:::
+
+:::qs
+1.5
+:::
+
+
+:::q{marks=3}
+(b) A lamppost appears 2.5 times taller than an average teenager in a scaled diagram. If a teenager's estimated height is 1.5 meters, calculate the height of the lamppost.
+:::
+
+:::ain{free-latex}
+- 3.75
+:::
+
+:::callout{importantNote}
+The diagram shows a lamppost that is labeled as 2.5 times the height of a teenager standing next to it. The teenager is estimated to be 1.5 meters tall.
+:::
+
+:::qs
+3.75
+:::
+
+---
+~~~ 
+id: "799c4ddc-4f72-4de7-a3b0-0479425e2321"
+title: "Question 14"
+difficulty: 4
+isSample: true
+type: "QUESTION"
+qaState: "PENDING"
+~~~
+
+:::q{marks=4}
+A group of students at Central High School chose one subject to study from the following options: Science, Mathematics, or Geography. 80 students chose Science, 50 students chose Mathematics, and 30 students chose Geography. Construct a pie chart to represent this data. What angle corresponds to each subject?
+:::
+
+:::ain{free-latex}
+- 
+:::
+
+:::callout{importantNote}
+To construct the pie chart, calculate the angle for each subject using the formula: $$ \text{Angle} = \frac{\text{Number of students in subject}}{\text{Total number of students}} \times 360 \text{ degrees}. $$
+
+- For Science: $$ \frac{80}{160} \times 360 = 180 \text{ degrees} $$
+- For Mathematics: $$ \frac{50}{160} \times 360 = 112.5 \text{ degrees} $$
+- For Geography: $$ \frac{30}{160} \times 360 = 67.5 \text{ degrees} $$
+
+Draw a circle and use these angles to mark and label each section corresponding to the subjects: Science, Mathematics, and Geography.
+:::
+
+:::qs
+
+:::
+
+
+:::q{marks=4}
+An external pie chart illustrates student participation in History at Riverdale School, a claim states History had fewer students compared to Science at Central High School. Without data from Riverdale, determine if the claim is accurate.
+:::
+
+:::ain{choice}
+- [ ] True
+- [ ] False
+- [X] Cannot Determine
+- [ ] Data is Irrelevant
+:::
+
+:::qs
+Cannot Determine
+:::
+
+---
+~~~ 
+id: "31b34bf8-5e4a-45b9-86b3-f2f7919f01ec"
+title: "Question 15"
+difficulty: 3
+isSample: true
+type: "QUESTION"
+qaState: "PENDING"
+~~~
+
+:::q{marks=4}
+A rectangular piece of cloth has a total area of $120$ square cm, and its length measures $12$ cm. If the area of a triangle is $rac{1}{3}$ of the area of the rectangle, determine the base of the triangle if its height is $8$ cm.
+:::
+
+:::ain{free-latex}
+- 10
+:::
+
+:::qs
+10
+:::
+
+---
+~~~ 
+id: "7b32974a-5546-42b1-9b71-a5546d827e8e"
+title: "Question 16"
+difficulty: 1
+isSample: true
+type: "QUESTION"
+qaState: "PENDING"
+~~~
+
+:::q{marks=2}
+Given the formula $s = u + at$, where $u = 3$, $a = 0.75$, and $t = 6$. Calculate the value of $s$.
+:::
+
+:::ain{free-latex}
+- 7.5
+:::
+
+:::qs
+7.5
+:::
+
+---
+~~~ 
+id: "916e3b4d-330f-4f81-8dd9-200741dd0e8e"
+title: "Question 17"
+difficulty: 4
+isSample: true
+type: "QUESTION"
+qaState: "PENDING"
+~~~
+
+:::q{marks=4}
+Given that 7 bags weigh a total of 2310 grams, and 6 bags and 5 boxes weigh a total of 2615 grams, calculate the total weight of 5 bags and 2 boxes.
+:::
+
+:::ain{free-latex}
+- 2120
+:::
+
+:::qs
+2120
+:::
+
+---
+~~~ 
+id: "fba5a064-35bf-434d-bef6-5457c36e33be"
+title: "Question 18"
+difficulty: 3
+isSample: true
+type: "QUESTION"
+qaState: "PENDING"
+~~~
+
+:::q{marks=5}
+(a) Thomas plans to plant grass in his circular garden, which has a diameter of 16 m. Each box of grass seed covers an area of $42 \text{ m}^2$. Calculate the number of boxes Thomas will need.
+:::
+
+:::ain{free-latex}
+- 5
+:::
+
+:::callout{importantNote}
+A circle with a diameter labeled as 16 m, representing the garden.
+:::
+
+:::qs
+5
+:::
+
+
+:::q{marks=5}
+(b) Consider if the calculated number of boxes is an underestimate or an overestimate. Provide reasoning for your answer.
+:::
+
+:::ain{choice}
+- [ ] Underestimate, as $\text{π}$ was underestimated.
+- [X] Overestimate, as $\text{π}$ was overestimated.
+- [ ] Exact calculation, no error in estimation.
+- [ ] Depends on the actual price of the grass seed.
+:::
+
+:::qs
+Overestimate, as $\text{π}$ was overestimated.
+:::
+
+---
+~~~ 
+id: "be1cd5c1-8f9c-45c5-8a40-d2875cd64287"
+title: "Question 19"
+difficulty: 3
+isSample: true
+type: "QUESTION"
+qaState: "PENDING"
+~~~
+
+:::q{marks=4}
+Solve the equation $3(y + 4) = 36$. Express your answer as an integer.
+:::
+
+:::ain{free-latex}
+- 8
+:::
+
+:::qs
+8
+:::
+
+
+:::q{marks=4}
+If $v = (5 - 4z)$ and $v$ is an integer, list the possible values of $z$. Express the values as integers.
+:::
+
+:::ain{free-latex}
+- 1, 2, 3, 4, 5
+:::
+
+:::qs
+1, 2, 3, 4, 5
+:::
+
+---
+~~~ 
+id: "9cda9d7d-6a08-4360-89d6-88de2fdd6583"
+title: "Question 20"
+difficulty: 1
+isSample: true
+type: "QUESTION"
+qaState: "PENDING"
+~~~
+
+:::q{marks=2}
+Emma earns £1800 monthly. Her pay increases by 4%. Calculate her new monthly pay.
+:::
+
+:::ain{free-latex}
+- 1872
+:::
+
+:::qs
+1872
+:::
+
+---
+~~~ 
+id: "0fa8a07f-0dbd-4f9d-801e-8cf37330e37e"
+title: "Question 21"
+difficulty: 3
+isSample: true
+type: "QUESTION"
+qaState: "PENDING"
+~~~
+
+:::q{marks=5}
+A scatter plot displays a data set. Identify the outlier in the dataset. The coordinates of the data points are as follows: $(2, 5)$, $(3, 7)$, $(4, 9)$, $(5, 11)$, $(6, 13)$, and $(7, 15)$. Which point is the outlier?
+:::
+
+:::ain{choice}
+- [X] (2, 5)
+- [ ] (4, 9)
+- [ ] (6, 13)
+- [ ] (7, 15)
+:::
+
+:::callout{importantNote}
+The diagram is a scatter plot with data points plotted on a Cartesian plane. The x-axis represents independent variable values ranging from 1 to 8, while the y-axis represents the dependent variable values ranging from 1 to 16.
+:::
+
+:::qs
+(2, 5)
+:::
+
+
+:::q{marks=5}
+From the scatter plot, describe the correlation between the remaining data points after removing an outlier. Choose the best description for the correlation.
+:::
+
+:::ain{choice}
+- [ ] No correlation
+- [ ] Negative correlation
+- [X] Positive correlation
+- [ ] Curved correlation
+:::
+
+:::callout{importantNote}
+The scatter plot remains the same with one outlier removed. The description mentioned earlier applies to the new data set appearance, indicating a linearly increasing trend of the points.
+:::
+
+:::qs
+Positive correlation
+:::
+
+
+:::q{marks=5}
+If the temperature in a town is predicted to be $20\degree C$, estimate the likely number of hours of sunshine. Use the trend line from the scatter plot to make your prediction.
+:::
+
+:::ain{free-latex}
+- 14
+:::
+
+:::callout{importantNote}
+A trend line is drawn on the scatter plot that shows the positive correlation between temperature and hours of sunshine.
+:::
+
+:::qs
+14
+:::
+
+
+:::q{marks=5}
+Does the scatter plot support the claim that more sunshine correlates with higher temperatures? Provide a reason based on the dataset's correlation.
+:::
+
+:::ain{choice}
+- [X] Yes, due to a positive correlation
+- [ ] No, the correlation is negative
+- [ ] The correlation is not significant
+- [ ] The data is insufficient
+:::
+
+:::callout{importantNote}
+The scatter plot visually demonstrates the correlation with data points forming a pattern, suggesting a relationship between the variables.
+:::
+
+:::qs
+Yes, due to a positive correlation
+:::
+
+---
+~~~ 
+id: "b11c4066-967b-40f6-973c-aaf9c02225ad"
+title: "Question 22"
+difficulty: 1
+isSample: true
+type: "QUESTION"
+qaState: "PENDING"
+~~~
+
+:::q{marks=2}
+Express 156 as a product of its prime factors.
+:::
+
+:::ain{free-latex}
+- 2^2 \times 3 \times 13
+:::
+
+:::qs
+2^2 \times 3 \times 13
+:::
+
+---
+~~~ 
+id: "6ef0cd6e-1b93-4581-b410-49cb2a857cd3"
+title: "Question 23"
+difficulty: 1
+isSample: true
+type: "QUESTION"
+qaState: "PENDING"
+~~~
+
+:::q{marks=3}
+Calculate the product of $67.1$ and $3.8$. Give your answer to one decimal place.
+:::
+
+:::ain{free-latex}
+- 254.98
+:::
+
+:::qs
+254.98
+:::
+
+---
+~~~ 
+id: "797229a9-3195-497b-9f4b-5ad5fcdeb28f"
+title: "Question 24"
+difficulty: 3
+isSample: true
+type: "QUESTION"
+qaState: "PENDING"
+~~~
+
+:::q{marks=3}
+Consider a square with side length $y$. An adjacent rectangle to this square has an area of $15 \text{ cm}^2$. Show that the equation $y^2 + 8y = 9$ is satisfied with these conditions.
+:::
+
+:::ain{free-latex}
+- 3
+:::
+
+:::callout{importantNote}
+A square with side length labeled as $y$ is drawn adjacent to a rectangle. The rectangle's dimensions are not given, but its total area is marked as $15 \text{ cm}^2$. Consider the adjacent side of the rectangle to the square as potentially sharing a side, and label accordingly to invoke any dependential relationships between $y$ and the dimensions of the rectangle.
+:::
+
+:::qs
+3
+:::
+
+---
+~~~ 
+id: "a74fb9c3-faec-40ce-aa48-3d43341191b1"
+title: "Question 25"
+difficulty: 3
+isSample: true
+type: "QUESTION"
+qaState: "PENDING"
+~~~
+
+:::q{marks=5}
+A metallic frame is constructed using rods of different lengths. The frame includes one 10 m rod, one 3 m rod, two additional 3 m rods, and two additional 10 m rods. Each rod weighs 2 kg per meter. Calculate the total weight of the frame.
+:::
+
+:::ain{free-latex}
+- 58
+:::
+
+:::callout{importantNote}
+The diagram should depict a metallic frame with labeled rods showing their lengths. There should be clearly identified segments for each of the rods: one 10 m rod, one 3 m rod, two additional 3 m rods, and two more 10 m rods, arranged in a symmetric frame-like structure. Each segment should be labeled with its length.
+:::
+
+:::qs
+58
+:::
+
+---
+~~~ 
+id: "5807777a-c54c-42e4-a551-01eef2fcb638"
+title: "Question 26"
+difficulty: 2
+isSample: true
+type: "QUESTION"
+qaState: "PENDING"
+~~~
+
+:::q{marks=2}
+Determine if the lines $y = 4x - 3$ and $4y - 16x + 7 = 0$ are parallel. Rewrite the second equation in the form $y = mx + c$ to identify the slope.
+:::
+
+:::ain{free-latex}
+- parallel
+:::
+
+:::qs
+parallel
+:::
+
+---
+~~~ 
+id: "3a68817d-8b14-4925-aebc-76e83aec4abf"
+title: "Question 27"
+difficulty: 4
+isSample: true
+type: "QUESTION"
+qaState: "PENDING"
+~~~
+
+:::q{marks=3}
+In a parallelogram, vectors emanate from the center $O$. Vector $\overrightarrow{OA} = \mathbf{a}$ and vector $\overrightarrow{OB} = \mathbf{b}$. Express the vector $\overrightarrow{OC}$ in terms of $\mathbf{b}$.
+:::
+
+:::ain{free-latex}
+- -\mathbf{b}
+:::
+
+:::callout{importantNote}
+The diagram is a parallelogram centered at point O. Vectors from O to points A, B, C, and D are labeled: \(\overrightarrow{OA} = \mathbf{a}\), \(\overrightarrow{OB} = \mathbf{b}\), and so forth. Point C is directly opposite point B across the center O.
+:::
+
+:::qs
+-\mathbf{b}
+:::
+
+
+:::q{marks=3}
+In a parallelogram, vectors emanate from the center $O$. Vector $\overrightarrow{OA} = \mathbf{a}$ and vector $\overrightarrow{OB} = \mathbf{b}$. Express the vector $\overrightarrow{OD}$ in terms of both vectors.
+:::
+
+:::ain{free-latex}
+- \mathbf{a} - \mathbf{b}
+:::
+
+:::callout{importantNote}
+The diagram is a parallelogram centered at point O. Vectors from O to points A, B, C, and D are labeled: \(\overrightarrow{OA} = \mathbf{a}\), \(\overrightarrow{OB} = \mathbf{b}\), and so forth. Point D represents the completion of the parallelogram configuration.
+:::
+
+:::qs
+\mathbf{a} - \mathbf{b}
+:::
+
+
+:::q{marks=3}
+In a parallelogram, vector $\overrightarrow{OA} = \mathbf{a}$. Vector $\overrightarrow{OE} = 2\overrightarrow{OA}$. Examine the position of $\overrightarrow{OE}$ in terms of $\mathbf{a}$.
+:::
+
+:::ain{free-latex}
+- 2\mathbf{a}
+:::
+
+:::callout{importantNote}
+The diagram is a parallelogram centered at point O. Vector \(\overrightarrow{OA} = \mathbf{a}\), and point E is along the extended line of OA such that \(\overrightarrow{OE} = 2\overrightarrow{OA}\).
+:::
+
+:::qs
+2\mathbf{a}
+:::
+
