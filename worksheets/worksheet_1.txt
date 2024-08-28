@@ -1,0 +1,736 @@
+---
+~~~ 
+id: "0178e2fe-698a-403b-984b-2f3549acf779"
+title: "Question 1"
+difficulty: 1
+isSample: true
+type: "QUESTION"
+qaState: "PENDING"
+~~~
+
+:::q{marks=1}
+Calculate the result of $45 - 13$.
+:::
+
+:::ain{free-latex}
+- 32
+:::
+
+:::qs
+32
+:::
+
+---
+~~~ 
+id: "c722a3e0-dd76-4491-b8e8-ed1d8c07e8b9"
+title: "Question 2"
+difficulty: 1
+isSample: true
+type: "QUESTION"
+qaState: "PENDING"
+~~~
+
+:::q{marks=1}
+Round the number $9.87654$ to three decimal places.
+:::
+
+:::ain{free-latex}
+- 9.877
+:::
+
+:::qs
+9.877
+:::
+
+---
+~~~ 
+id: "50fe6de1-0be7-4001-a305-b0a0c1d08105"
+title: "Question 3"
+difficulty: 2
+isSample: true
+type: "QUESTION"
+qaState: "PENDING"
+~~~
+
+:::q{marks=2}
+(a) Simplify the expression $3 \times g \times h \times 9$.
+:::
+
+:::ain{free-latex}
+- 27gh
+:::
+
+:::qs
+27gh
+:::
+
+
+:::q{marks=2}
+(b) Solve the equation $y + 3 = 15$ for $y$.
+:::
+
+:::ain{free-latex}
+- 12
+:::
+
+:::qs
+12
+:::
+
+---
+~~~ 
+id: "0b8b08c3-1763-409f-8a8a-dbed7624d876"
+title: "Question 4"
+difficulty: 1
+isSample: true
+type: "QUESTION"
+qaState: "PENDING"
+~~~
+
+:::q{marks=1}
+Convert the fraction $\frac{7}{10}$ into a percentage.
+:::
+
+:::ain{free-latex}
+- 70
+:::
+
+:::qs
+70
+:::
+
+---
+~~~ 
+id: "1ed763cd-9123-4905-a461-ddaf342e9bd7"
+title: "Question 5"
+difficulty: 1
+isSample: true
+type: "QUESTION"
+qaState: "PENDING"
+~~~
+
+:::q{marks=2}
+Calculate 75\% of 80. Express your answer as a whole number.
+:::
+
+:::ain{free-latex}
+- 60
+:::
+
+:::qs
+60
+:::
+
+---
+~~~ 
+id: "4e4f9440-d4f5-48fa-87bd-fca2be939261"
+title: "Question 6"
+difficulty: 2
+isSample: true
+type: "QUESTION"
+qaState: "PENDING"
+~~~
+
+:::q{marks=2}
+A fair 6-sided spinner is numbered from 1 to 6.
+
+(i) On a probability scale from 0 to 1, where 0 represents an impossible event and 1 represents a certain event, mark with a cross (×) the probability of landing on the number 3.
+:::
+
+:::ain{free-latex}
+- 1/6
+:::
+
+:::callout{importantNote}
+Draw a horizontal line to represent the probability scale with marks at intervals labeled 0, 0.2, 0.4, 0.6, 0.8, and 1. Add a cross (×) above the point representing 1/6 on this scale.
+:::
+
+:::qs
+1/6
+:::
+
+
+:::q{marks=2}
+A fair 6-sided spinner is numbered from 1 to 6.
+
+(ii) On the same probability scale from 0 to 1, where 0 represents an impossible event and 1 represents a certain event, mark with a cross (×) the probability of landing on the number 7.
+:::
+
+:::ain{free-latex}
+- 0
+:::
+
+:::callout{importantNote}
+Use the same horizontal line probability scale as Part (i). Add a cross (×) above the point representing 0 on this scale.
+:::
+
+:::qs
+0
+:::
+
+---
+~~~ 
+id: "16ff37bd-f012-4693-b460-e24d6cfc7296"
+title: "Question 7"
+difficulty: 3
+isSample: true
+type: "QUESTION"
+qaState: "PENDING"
+~~~
+
+:::q{marks=3}
+John goes shopping and purchases the following items: 2 packets of biscuits priced at £1.50 each, 1 bottle of juice for £2.50, and 3 bars of chocolate. After using a £15 note for payment, he receives 50p as change. Is John correct in stating that each chocolate bar costs £3.00? Use mathematical calculations to justify your answer.
+:::
+
+:::ain{free-latex}
+- incorrect
+:::
+
+:::qs
+incorrect
+:::
+
+---
+~~~ 
+id: "7eb62dcf-1442-492a-aa78-44d634f4be72"
+title: "Question 8"
+difficulty: 3
+isSample: true
+type: "QUESTION"
+qaState: "PENDING"
+~~~
+
+:::q{marks=3}
+(a) Calculate the product of two fractions: $ \frac{5}{8} \times \frac{3}{4} $. Provide your answer in its simplest form.
+:::
+
+:::ain{free-latex}
+- 15
+:::
+
+:::qs
+15
+:::
+
+
+:::q{marks=3}
+(b) Subtract the fraction $ \frac{3}{5} $ from $ \frac{7}{2} $. You may need to convert both fractions to have a common denominator before subtracting.
+:::
+
+:::ain{free-latex}
+- 29
+:::
+
+:::qs
+29
+:::
+
+---
+~~~ 
+id: "3c1fbd52-c7d8-4df7-b2dc-4988ad306ed7"
+title: "Question 9"
+difficulty: 3
+isSample: true
+type: "QUESTION"
+qaState: "PENDING"
+~~~
+
+:::q{marks=4}
+Eva works 12 hours in a day. Her normal pay rate is $12 per hour. Overtime is paid at 1.5 times the normal pay rate. Calculate Eva's total earnings for the day.
+:::
+
+:::ain{free-latex}
+- 168
+:::
+
+:::qs
+168
+:::
+
+---
+~~~ 
+id: "7d8cf73f-9f4c-424e-93ff-da48b45ff74e"
+title: "Question 10"
+difficulty: 2
+isSample: true
+type: "QUESTION"
+qaState: "PENDING"
+~~~
+
+:::q{marks=2}
+A farmer has 10 crates of apples. Each crate contains 15 apples. Write, as a ratio, the number of apples in four crates to the total number of apples.
+:::
+
+:::ain{free-latex}
+- 2:5
+:::
+
+:::qs
+2:5
+:::
+
+---
+~~~ 
+id: "6c3cbbf6-3a41-4d4f-b22b-8e1fb94b231d"
+title: "Question 11"
+difficulty: 4
+isSample: true
+type: "QUESTION"
+qaState: "PENDING"
+~~~
+
+:::q{marks=6}
+A sequence of shapes follows a pattern. Each shape in the sequence has more sides than the previous one. (a) How many sides does the 7th shape have if the pattern increases by 2 sides each time, starting from 6 sides for the first shape?
+:::
+
+:::ain{free-latex}
+- 18
+:::
+
+:::callout{importantNote}
+Diagram of a sequence of polygonal shapes. The first shape is a hexagon, followed by shapes with increasing sides by 2: an octagon, a decagon, etc.
+:::
+
+:::qs
+18
+:::
+
+
+:::q{marks=6}
+A sequence of shapes follows a pattern. Each shape in the sequence has more points than the previous one. (b) How many points does the 15th shape have if each shape follows the sequence 5, 7, 9...?
+:::
+
+:::ain{free-latex}
+- 33
+:::
+
+:::callout{importantNote}
+Diagram of a sequence of points increasing by 2, starting with 5 points: 5 points, 7 points, 9 points, etc.
+:::
+
+:::qs
+33
+:::
+
+---
+~~~ 
+id: "ada10b9b-9807-4f86-b5f4-0d055964a95b"
+title: "Question 12"
+difficulty: 2
+isSample: true
+type: "QUESTION"
+qaState: "PENDING"
+~~~
+
+:::q{marks=2}
+A bag contains 12 blue marbles, 8 green marbles, and 10 red marbles. Calculate the probability of selecting a blue marble at random.
+:::
+
+:::ain{free-latex}
+- \frac{3}{5}
+:::
+
+:::qs
+\frac{3}{5}
+:::
+
+---
+~~~ 
+id: "0bf88dcf-f583-445d-bfdb-57953076a6a7"
+title: "Question 13"
+difficulty: 3
+isSample: true
+type: "QUESTION"
+qaState: "PENDING"
+~~~
+
+:::q{marks=3}
+A diagram illustrates a tree adjacent to a 2-meter tall post, drawn to scale. (a) Use the diagram to estimate the height of the post. 
+
+*Note: The scale for the post is given*. 
+
+(b) Estimate the real height of the tree if it is depicted as being 7 times the post's height in the diagram.
+:::
+
+:::ain{free-latex}
+- 14
+:::
+
+:::callout{importantNote}
+The diagram should depict a post and a tree. The post should be labeled with its real height of 2 meters. The tree should be shown as noticeably taller than the post, with a proportional height appearing 7 times that of the post in the diagram.
+:::
+
+:::qs
+14
+:::
+
+---
+~~~ 
+id: "62e09d92-ddb7-4615-be81-b5bdc66b82a7"
+title: "Question 14"
+difficulty: 4
+isSample: true
+type: "QUESTION"
+qaState: "PENDING"
+~~~
+
+:::q{marks=4}
+A school surveyed students about their subject preferences, and the results were as follows: 70 students chose Mathematics, 50 students chose English, and 30 students chose Science. Create a pie chart to represent this data.
+:::
+
+:::ain{free-latex}
+- 
+:::
+
+:::callout{importantNote}
+To construct the pie chart, calculate the total number of students surveyed. Divide the student count for each subject by the total to find the percentage of the pie each should represent: Mathematics, English, and Science. Then, use these percentages to determine the central angles for each segment in the pie chart. For example, to find the angle for Mathematics, use the formula: (Number of Mathematics students / Total number of students) * 360 degrees.
+:::
+
+:::qs
+
+:::
+
+---
+~~~ 
+id: "664ca096-2698-4623-979f-514c557ad58b"
+title: "Question 15"
+difficulty: 4
+isSample: true
+type: "QUESTION"
+qaState: "PENDING"
+~~~
+
+:::q{marks=4}
+A triangle has an area of $24 \text{ cm}^2$. A rectangle has an area that is 8 times larger than the triangle. Calculate the width of the rectangle if the rectangle's height is $12 \text{ cm}$.
+:::
+
+:::ain{free-latex}
+- 16
+:::
+
+:::qs
+16
+:::
+
+---
+~~~ 
+id: "0ef21e25-f1bb-4a4f-908c-cfd448a4017e"
+title: "Question 16"
+difficulty: 2
+isSample: true
+type: "QUESTION"
+qaState: "PENDING"
+~~~
+
+:::q{marks=2}
+Given the equation $ v = u + at $, where $ u = 3 $, $ a = 2 $, and $ t = 3.5 $. Calculate the value of $ v $.
+:::
+
+:::ain{free-latex}
+- 10
+:::
+
+:::qs
+10
+:::
+
+---
+~~~ 
+id: "ee0f9d2f-4622-4bf9-acba-48ff7cf7f26a"
+title: "Question 17"
+difficulty: 3
+isSample: true
+type: "QUESTION"
+qaState: "PENDING"
+~~~
+
+:::q{marks=4}
+Nine cans of beans weigh a total of 4500 grams. Additionally, five cans and six cartons together weigh 3320 grams. Calculate the total weight of two cans and four cartons.
+:::
+
+:::ain{free-latex}
+- 1840
+:::
+
+:::qs
+1840
+:::
+
+---
+~~~ 
+id: "4d9d21c4-93ee-4fb1-9a2d-b379d1816a5b"
+title: "Question 18"
+difficulty: 4
+isSample: true
+type: "QUESTION"
+qaState: "PENDING"
+~~~
+
+:::q{marks=5}
+A circular garden has a radius of 18 m. Each seed box covers 50 m². Estimate the number of boxes required to cover the garden. Use $\pi \approx 3.14$. Solution: Calculate the area of the garden using the formula for the area of a circle.
+:::
+
+:::ain{free-latex}
+- 21
+:::
+
+:::qs
+21
+:::
+
+---
+~~~ 
+id: "1cd2e90c-9210-4fb4-a6ba-e2c96af8d139"
+title: "Question 19"
+difficulty: 3
+isSample: true
+type: "QUESTION"
+qaState: "PENDING"
+~~~
+
+:::q{marks=4}
+(a) Solve the equation $5(y + 2) = 25$. Provide your answer as a single integer.
+:::
+
+:::ain{free-latex}
+- 3
+:::
+
+:::qs
+3
+:::
+
+
+:::q{marks=4}
+(b) If $w - 6 = b$, where $b$ is a positive integer, list possible values of $w$. Provide at least three consecutive values.
+:::
+
+:::ain{free-latex}
+- 7
+:::
+
+:::qs
+7
+:::
+
+---
+~~~ 
+id: "2a63df29-6b35-4a1c-a1cb-d8643ab93608"
+title: "Question 20"
+difficulty: 2
+isSample: true
+type: "QUESTION"
+qaState: "PENDING"
+~~~
+
+:::q{marks=2}
+Mia earns £2200 a month. She receives a 7% pay increase. Calculate her new monthly salary using the following formula: 
+
+> **New Salary** = **Original Salary** + (**Original Salary** × **Percentage Increase**). 
+
+Provide your answer using the correct calculations.
+:::
+
+:::ain{free-latex}
+- 2354
+:::
+
+:::qs
+2354
+:::
+
+---
+~~~ 
+id: "53980ba0-7cb2-41e4-a362-6184f15e3539"
+title: "Question 21"
+difficulty: 4
+isSample: true
+type: "QUESTION"
+qaState: "PENDING"
+~~~
+
+:::q{marks=5}
+A scatter graph displays the data for 12 towns, with temperature in degrees Celsius on the x-axis and sunshine hours on the y-axis. (a) Determine the coordinates of any outliers on the scatter plot.
+:::
+
+:::ain{free-latex}
+- (insert coordinate based on diagram interpretation)
+:::
+
+:::callout{importantNote}
+The scatter graph should have temperature (°C) on the horizontal axis and sunshine hours on the vertical axis. Plot 12 points to represent different towns. Ensure one point is significantly away from the trend of the other points to act as an outlier.
+:::
+
+:::qs
+(insert coordinate based on diagram interpretation)
+:::
+
+
+:::q{marks=5}
+(b) Based on the plot (excluding any outliers), determine the type of correlation between temperature and sunshine hours for the remaining towns.
+:::
+
+:::ain{choice}
+- [X] Positive correlation
+- [ ] Negative correlation
+- [ ] No correlation
+- [ ] Perfect correlation
+:::
+
+:::qs
+Positive correlation
+:::
+
+---
+~~~ 
+id: "ef6836f6-84a9-4386-8dcb-df283966e01c"
+title: "Question 22"
+difficulty: 3
+isSample: true
+type: "QUESTION"
+qaState: "PENDING"
+~~~
+
+:::q{marks=2}
+Express 84 as a product of its prime factors.
+:::
+
+:::ain{free-latex}
+- 2^2 \times 3 \times 7
+:::
+
+:::qs
+2^2 \times 3 \times 7
+:::
+
+---
+~~~ 
+id: "3a853465-5b42-4440-afdf-d39bd8b1210d"
+title: "Question 23"
+difficulty: 3
+isSample: true
+type: "QUESTION"
+qaState: "PENDING"
+~~~
+
+:::q{marks=3}
+Calculate $47.6 \times 6.8$ using long multiplication.
+:::
+
+:::ain{free-latex}
+- 323.68
+:::
+
+:::qs
+323.68
+:::
+
+---
+~~~ 
+id: "fc793f2e-4609-4355-940c-724aaff68d64"
+title: "Question 24"
+difficulty: 4
+isSample: true
+type: "QUESTION"
+qaState: "PENDING"
+~~~
+
+:::q{marks=3}
+A square has sides of $ rac{\text{cm}^{1.5}}{\text{cm}} $. Prove that $ s^2 + 6s = 7 $. Solution: Set up and solve the equation where sides and area constraints hold.
+:::
+
+:::ain{free-latex}
+- 
+:::
+
+:::qs
+
+:::
+
+---
+~~~ 
+id: "dd9fe0d8-3b62-4463-a18a-61b1c7fb1e4f"
+title: "Question 25"
+difficulty: 3
+isSample: true
+type: "QUESTION"
+qaState: "PENDING"
+~~~
+
+:::q{marks=5}
+A frame is constructed using 8 identical pieces. Each piece is 3 meters long and has a weight of 1.5 kg per meter. Calculate the total weight of the frame.
+:::
+
+:::ain{free-latex}
+- 36
+:::
+
+:::qs
+36
+:::
+
+---
+~~~ 
+id: "2bb8c683-9cbe-40c2-bfbf-618dfd3a420c"
+title: "Question 26"
+difficulty: 4
+isSample: true
+type: "QUESTION"
+qaState: "PENDING"
+~~~
+
+:::q{marks=2}
+Given the line equation $y = 5x - 3$, demonstrate why it is parallel to the line given by $5y - 25x + 8 = 0$. Begin by converting the second equation into slope-intercept form to identify the slopes.
+:::
+
+:::ain{free-latex}
+- 5
+:::
+
+:::qs
+5
+:::
+
+---
+~~~ 
+id: "248e7bf7-e954-4b38-955a-5b45b540a689"
+title: "Question 27"
+difficulty: 5
+isSample: true
+type: "QUESTION"
+qaState: "PENDING"
+~~~
+
+:::q{marks=3}
+Given a parallelogram $OABC$ where $\vec{OA} = \vec{a}$, $\vec{OB} = \vec{b}$, find the vector $\vec{DC}$ in terms of $\vec{b}$.
+:::
+
+:::ain{free-latex}
+- -b
+:::
+
+:::callout{importantNote}
+A parallelogram with vertices labeled $O$, $A$, $B$, and $C$. $O$ is the origin point, with $\vec{OA}$ represented by an arrow from $O$ to $A$, and $\vec{OB}$ by an arrow from $O$ to $B$. The diagonal $\vec{DC}$ is opposite to $\vec{OB}$.
+:::
+
+:::qs
+-b
+:::
+
+
+:::q{marks=3}
+In the same parallelogram $OABC$, find the vector $\vec{AB}$ in terms of $\vec{a}$ and $\vec{b}$, and confirm that vector properties are maintained.
+:::
+
+:::ain{free-latex}
+- a-b
+:::
+
+:::callout{importantNote}
+The same parallelogram diagram is applicable where $O$, $A$, $B$, and $C$ are corners. The vector $\vec{AB}$ starts at point $A$ moving towards $B$. $\vec{OA}$ and $\vec{OB}$ should also be represented as described earlier.
+:::
+
+:::qs
+a-b
+:::
+
